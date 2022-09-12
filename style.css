@@ -95,3 +95,8 @@ border-radius: 10px;
     background-image: linear-gradient(to right,rgb(0,80,172), rgb(80,20,195));
 
 }
+
+
+a{
+    font-size: 15px;
+}
